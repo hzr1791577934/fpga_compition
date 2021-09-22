@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/Applications/CMake.app/Contents/bin/cmake -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/hzr/CLionProjects/mtxprocess
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hzr/CLionProjects/mtxprocess/cmake-build-debug
+
+Cannot get compiler information:
+	Compiler exited with error code 1: /usr/bin/cc -xc -arch arm64 -fpch-preprocess -v -dD -E
+	xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+	
+	
